@@ -3,5 +3,6 @@
 
 ### Android 모바일 프로그래밍 ? :thinking:
 
-이용 언어 : JAVA \n
+이용 언어 : JAVA
+
 Editor : Android Studio
